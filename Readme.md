@@ -25,7 +25,7 @@ Despues de tenerlo, puede crear un archivo .py en el mismo directorio del archiv
 Importe la libreria en el nuevo archivo y use las operaciones de manera directa
 Por ejemplo el siguiente codigo le indicara el sistema, el estado inicial y el numero de cliks que tiene que hacer el sistema
 
-`import Simulador_Sistema_Cuantico`
+`import Simulador`
 
 `a=Simulador.simuladorBool([[0, 1, 0, 0, 0, 1],
                            [0, 0, 0, 1, 0, 0],
